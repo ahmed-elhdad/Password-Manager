@@ -1,2 +1,3 @@
 from func.welcome import welcome
-welcome()
+# welcome()
+from func.encryption import e
